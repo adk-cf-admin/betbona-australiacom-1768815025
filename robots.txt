@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://betbona-australia.com/
+Sitemap: https://betbona-australia.com/sitemap.xml

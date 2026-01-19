@@ -1,0 +1,19 @@
+{
+  "name": "Betbona",
+  "short_name": "Betbona",
+  "theme_color": "",
+  "background_color": "#1D1F25",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768814210-favicon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
